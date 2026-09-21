@@ -2,3 +2,9 @@
 
 This is Lab for Jonathan Payne
 
+
+
+\## Branching
+
+Branching lets you isolate your work from the main branch until it is ready.
+
