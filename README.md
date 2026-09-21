@@ -1,2 +1,4 @@
-# comp2245-lab1
-Repository meant for submitting Lab 1 for Web Development class
+# \# COMP2245- Lab 1
+
+This is Lab for Jonathan Payne
+
